@@ -1,2 +1,6 @@
-# 60days_C-_DSAPrep
+# 60days_CPP_DSAPrep
 C++_DSAPrep
+
+Day 1: Space and time complexity
+
+Day 2: Recursion and backtracking
