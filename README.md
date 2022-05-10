@@ -1,5 +1,5 @@
-# 60days_CPP_DSAPrep
-C++_DSAPrep
+#CPP_DSA_Prep
+CPP_DSA_Prep
 
 Day 1: Time Complexity and Space Complexity
 
